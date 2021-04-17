@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://twitter.com/hoshina350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hoshina350" height="30" width="40" /></a>
 <a href="https://instagram.com/ran350_3d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ran350_3d" height="30" width="40" /></a>
-<a href="http://www.rcc.ritsumei.ac.jp/"><img align="left" width="30" src="image/rcc.svg" /></a>
+<a href="http://www.rcc.ritsumei.ac.jp/"><img align="left" height="30" width="40 src="image/rcc.svg" /></a>
 </p>
 
 
