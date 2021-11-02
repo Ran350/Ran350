@@ -1,6 +1,8 @@
 ## Ran350
 
-あ！　らんちゃんや！　んちゃんんちゃんにしたろ！www
+<div align="center">
+  <img src="image/ran.svg" alt="あ！らんちゃんや！んちゃんんちゃんにしたろwww" />
+</div>
 
 <p align="left">
 <a href="https://twitter.com/hoshina350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hoshina350" height="30" width="40" /></a>

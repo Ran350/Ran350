@@ -1,0 +1,102 @@
+<svg
+  width="800"
+  height="32"
+  viewBox="0 0 800 32"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    @keyframes gatagata {
+        0% {
+            transform: translate(0px, 0px) rotate(0deg)
+        }
+
+        25% {
+            transform: translate(6px, 6px) rotate(2deg)
+        }
+
+        50% {
+            transform: translate(0px, 6px) rotate(0deg)
+        }
+
+        75% {
+            transform: translate(6px, 0px) rotate(-2deg)
+        }
+
+        100% {
+            transform: translate(0px, 0px) rotate(0deg)
+        }
+    }
+
+    .text {
+        animation: gatagata 0.1s infinite linear alternate;
+        transform-origin: center;
+    }
+  </style>
+  <text
+    class="text"
+    fill="url(#paint0_linear)"
+    x="0"
+    y="32"
+    font-weight="900"
+    font-size="32"
+  >
+    あ！らんちゃんや！んちゃんんちゃんにしたろwww
+  </text>
+  <defs>
+    <linearGradient
+      id="paint0_linear"
+      y1="0"
+      y2="0"
+      gradientUnits="userSpaceOnUse"
+    >
+      <animate
+        attributeName="x1"
+        values="-800;0"
+        dur="0.5s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="x2"
+        values="800;1600"
+        dur="0.5s"
+        repeatCount="indefinite"
+      />
+
+      <stop offset="0" stop-color="hsl(0deg, 100%, 50%)" />
+      <stop offset="0.03125" stop-color="hsl(22.5deg, 100%, 50%)" />
+      <stop offset="0.0625" stop-color="hsl(45deg, 100%, 50%)" />
+      <stop offset="0.09375" stop-color="hsl(67.5deg, 100%, 50%)" />
+      <stop offset="0.125" stop-color="hsl(90deg, 100%, 50%)" />
+      <stop offset="0.15625" stop-color="hsl(112.5deg, 100%, 50%)" />
+      <stop offset="0.1875" stop-color="hsl(135deg, 100%, 50%)" />
+      <stop offset="0.21875" stop-color="hsl(157.5deg, 100%, 50%)" />
+      <stop offset="0.25" stop-color="hsl(180deg, 100%, 50%)" />
+      <stop offset="0.28125" stop-color="hsl(202.5deg, 100%, 50%)" />
+      <stop offset="0.3125" stop-color="hsl(225deg, 100%, 50%)" />
+      <stop offset="0.34375" stop-color="hsl(247.5deg, 100%, 50%)" />
+      <stop offset="0.375" stop-color="hsl(270deg, 100%, 50%)" />
+      <stop offset="0.40625" stop-color="hsl(292.5deg, 100%, 50%)" />
+      <stop offset="0.4375" stop-color="hsl(315deg, 100%, 50%)" />
+      <stop offset="0.46875" stop-color="hsl(337.5deg, 100%, 50%)" />
+      <stop offset="0.5" stop-color="hsl(360deg, 100%, 50%)" />
+      <stop offset="0.5" stop-color="hsl(0deg, 100%, 50%)" />
+      <stop offset="0.53125" stop-color="hsl(22.5deg, 100%, 50%)" />
+      <stop offset="0.5625" stop-color="hsl(45deg, 100%, 50%)" />
+      <stop offset="0.59375" stop-color="hsl(67.5deg, 100%, 50%)" />
+      <stop offset="0.625" stop-color="hsl(90deg, 100%, 50%)" />
+      <stop offset="0.65625" stop-color="hsl(112.5deg, 100%, 50%)" />
+      <stop offset="0.6875" stop-color="hsl(135deg, 100%, 50%)" />
+      <stop offset="0.71875" stop-color="hsl(157.5deg, 100%, 50%)" />
+      <stop offset="0.75" stop-color="hsl(180deg, 100%, 50%)" />
+      <stop offset="0.78125" stop-color="hsl(202.5deg, 100%, 50%)" />
+      <stop offset="0.8125" stop-color="hsl(225deg, 100%, 50%)" />
+      <stop offset="0.84375" stop-color="hsl(247.5deg, 100%, 50%)" />
+      <stop offset="0.875" stop-color="hsl(270deg, 100%, 50%)" />
+      <stop offset="0.90625" stop-color="hsl(292.5deg, 100%, 50%)" />
+      <stop offset="0.9375" stop-color="hsl(315deg, 100%, 50%)" />
+      <stop offset="0.96875" stop-color="hsl(337.5deg, 100%, 50%)" />
+      <stop offset="1" stop-color="hsl(360deg, 100%, 50%)" />
+    </linearGradient>
+  </defs>
+</svg>
