@@ -11,9 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ran350.github.io](https://ran350.github.io)
 
-- 📫 How to reach me [Twitter](https://twitter.com/hoshina350) or [Instagram](https://instagram.com/ran350_3d)
-
-
 
 <br />
 
